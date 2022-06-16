@@ -10,6 +10,7 @@ Pastikan `composer`, `git`, 'CLI' dan tools pemprograman PHP lainnya sudah terse
 
 1. Clone dari Github `git clone https://github.com/cliexec/dottest.git`
 2. Navigasi ke folder `cd dottest`
+3. Jalankan `composer install`
 
 # Cara Instalasi
 
