@@ -4,7 +4,7 @@ REST API sederhana menggunakan Lumen untuk menarik dan menyimpan data dari RajaO
 
 # Ketentuan
 
-Pastikan `composer`, `git`, 'CLI' dan tools pemprograman PHP lainnya sudah tersedia.
+Pastikan `composer`, `git`, `command line` dan tools pemprograman PHP lainnya sudah tersedia.
 
 # Mendapatkan kode sumber
 
